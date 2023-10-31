@@ -24,14 +24,14 @@ public class first_java {
 
 
     public static void main(String[] args) {
-//        eve_odd();
-//        greeting();
-//        calc_interest();
-//        calc();
-//        largest();
-//        cvt_usd();
-//        fibonacci();
-//        palindrome_chk();
+        eve_odd();
+        greeting();
+        calc_interest();
+        calc();
+        largest();
+        cvt_usd();
+        fibonacci();
+        palindrome_chk();
         armstrong();
     }
 
